@@ -1,0 +1,525 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "f_com[0]",
+					"strict" : false
+				},
+				{
+					"name" : "f_com[1]",
+					"strict" : false
+				},
+				{
+					"name" : "a[0]",
+					"strict" : false
+				},
+				{
+					"name" : "a[1]",
+					"strict" : false
+				},
+				{
+					"name" : "a[2]",
+					"strict" : false
+				},
+				{
+					"name" : "a[3]",
+					"strict" : false
+				},
+				{
+					"name" : "a[4]",
+					"strict" : false
+				},
+				{
+					"name" : "a[5]",
+					"strict" : false
+				},
+				{
+					"name" : "a[6]",
+					"strict" : false
+				},
+				{
+					"name" : "a[7]",
+					"strict" : false
+				},
+				{
+					"name" : "b[0]",
+					"strict" : false
+				},
+				{
+					"name" : "b[1]",
+					"strict" : false
+				},
+				{
+					"name" : "b[2]",
+					"strict" : false
+				},
+				{
+					"name" : "b[3]",
+					"strict" : false
+				},
+				{
+					"name" : "b[4]",
+					"strict" : false
+				},
+				{
+					"name" : "b[5]",
+					"strict" : false
+				},
+				{
+					"name" : "b[6]",
+					"strict" : false
+				},
+				{
+					"name" : "b[7]",
+					"strict" : false
+				},
+				{
+					"name" : "cop",
+					"strict" : false
+				},
+				{
+					"name" : "sno",
+					"strict" : false
+				},
+				{
+					"name" : "rr[0]",
+					"strict" : false
+				},
+				{
+					"name" : "rr[1]",
+					"strict" : false
+				},
+				{
+					"name" : "rr[2]",
+					"strict" : false
+				},
+				{
+					"name" : "rr[3]",
+					"strict" : false
+				},
+				{
+					"name" : "rr[4]",
+					"strict" : false
+				},
+				{
+					"name" : "rr[5]",
+					"strict" : false
+				},
+				{
+					"name" : "rr[6]",
+					"strict" : false
+				},
+				{
+					"name" : "rr[7]",
+					"strict" : false
+				},
+				{
+					"name" : "rr[8]",
+					"strict" : false
+				},
+				{
+					"name" : "rr[9]",
+					"strict" : false
+				},
+				{
+					"name" : "rr[10]",
+					"strict" : false
+				},
+				{
+					"name" : "rr[11]",
+					"strict" : false
+				},
+				{
+					"name" : "rr[12]",
+					"strict" : false
+				},
+				{
+					"name" : "rr[13]",
+					"strict" : false
+				},
+				{
+					"name" : "rr[14]",
+					"strict" : false
+				},
+				{
+					"name" : "rr[15]",
+					"strict" : false
+				},
+				{
+					"name" : "priznak[0]",
+					"strict" : false
+				},
+				{
+					"name" : "priznak[1]",
+					"strict" : false
+				},
+				{
+					"name" : "sko",
+					"strict" : false
+				},
+				{
+					"name" : "RB[0]",
+					"strict" : false
+				},
+				{
+					"name" : "RB[1]",
+					"strict" : false
+				},
+				{
+					"name" : "RB[2]",
+					"strict" : false
+				},
+				{
+					"name" : "RB[3]",
+					"strict" : false
+				},
+				{
+					"name" : "RB[4]",
+					"strict" : false
+				},
+				{
+					"name" : "RB[5]",
+					"strict" : false
+				},
+				{
+					"name" : "RB[6]",
+					"strict" : false
+				},
+				{
+					"name" : "RB[7]",
+					"strict" : false
+				},
+				{
+					"name" : "CK[0]",
+					"strict" : false
+				},
+				{
+					"name" : "CK[1]",
+					"strict" : false
+				},
+				{
+					"name" : "CK[2]",
+					"strict" : false
+				},
+				{
+					"name" : "CK[3]",
+					"strict" : false
+				},
+				{
+					"name" : "CK[4]",
+					"strict" : false
+				},
+				{
+					"name" : "CK[5]",
+					"strict" : false
+				},
+				{
+					"name" : "CK[6]",
+					"strict" : false
+				},
+				{
+					"name" : "CK[7]",
+					"strict" : false
+				},
+				{
+					"name" : "RK[0]",
+					"strict" : false
+				},
+				{
+					"name" : "RK[1]",
+					"strict" : false
+				},
+				{
+					"name" : "RK[2]",
+					"strict" : false
+				},
+				{
+					"name" : "RK[3]",
+					"strict" : false
+				},
+				{
+					"name" : "RK[4]",
+					"strict" : false
+				},
+				{
+					"name" : "RK[5]",
+					"strict" : false
+				},
+				{
+					"name" : "RK[6]",
+					"strict" : false
+				},
+				{
+					"name" : "RK[7]",
+					"strict" : false
+				},
+				{
+					"name" : "RI[0]",
+					"strict" : false
+				},
+				{
+					"name" : "RI[1]",
+					"strict" : false
+				},
+				{
+					"name" : "RI[2]",
+					"strict" : false
+				},
+				{
+					"name" : "RI[3]",
+					"strict" : false
+				},
+				{
+					"name" : "RI[4]",
+					"strict" : false
+				},
+				{
+					"name" : "RI[5]",
+					"strict" : false
+				},
+				{
+					"name" : "RI[6]",
+					"strict" : false
+				},
+				{
+					"name" : "RI[7]",
+					"strict" : false
+				},
+				{
+					"name" : "s_out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "s_out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "s_out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "s_out[3]",
+					"strict" : false
+				},
+				{
+					"name" : "data_in_OP[0]",
+					"strict" : false
+				},
+				{
+					"name" : "data_in_OP[1]",
+					"strict" : false
+				},
+				{
+					"name" : "data_in_OP[2]",
+					"strict" : false
+				},
+				{
+					"name" : "data_in_OP[3]",
+					"strict" : false
+				},
+				{
+					"name" : "data_in_OP[4]",
+					"strict" : false
+				},
+				{
+					"name" : "data_in_OP[5]",
+					"strict" : false
+				},
+				{
+					"name" : "data_in_OP[6]",
+					"strict" : false
+				},
+				{
+					"name" : "data_in_OP[7]",
+					"strict" : false
+				},
+				{
+					"name" : "address_OP[0]",
+					"strict" : false
+				},
+				{
+					"name" : "address_OP[1]",
+					"strict" : false
+				},
+				{
+					"name" : "address_OP[2]",
+					"strict" : false
+				},
+				{
+					"name" : "address_OP[3]",
+					"strict" : false
+				},
+				{
+					"name" : "address_OP[4]",
+					"strict" : false
+				},
+				{
+					"name" : "address_OP[5]",
+					"strict" : false
+				},
+				{
+					"name" : "address_OP[6]",
+					"strict" : false
+				},
+				{
+					"name" : "address_OP[7]",
+					"strict" : false
+				},
+				{
+					"name" : "wr_en_OP",
+					"strict" : false
+				},
+				{
+					"name" : "data_out_OP[0]",
+					"strict" : false
+				},
+				{
+					"name" : "data_out_OP[1]",
+					"strict" : false
+				},
+				{
+					"name" : "data_out_OP[2]",
+					"strict" : false
+				},
+				{
+					"name" : "data_out_OP[3]",
+					"strict" : false
+				},
+				{
+					"name" : "data_out_OP[4]",
+					"strict" : false
+				},
+				{
+					"name" : "data_out_OP[5]",
+					"strict" : false
+				},
+				{
+					"name" : "data_out_OP[6]",
+					"strict" : false
+				},
+				{
+					"name" : "data_out_OP[7]",
+					"strict" : false
+				},
+				{
+					"name" : "address_a_RP[0]",
+					"strict" : false
+				},
+				{
+					"name" : "address_a_RP[1]",
+					"strict" : false
+				},
+				{
+					"name" : "address_a_RP[2]",
+					"strict" : false
+				},
+				{
+					"name" : "wr_en_a_RP",
+					"strict" : false
+				},
+				{
+					"name" : "address_b_RP[0]",
+					"strict" : false
+				},
+				{
+					"name" : "address_b_RP[1]",
+					"strict" : false
+				},
+				{
+					"name" : "address_b_RP[2]",
+					"strict" : false
+				},
+				{
+					"name" : "q_a[0]",
+					"strict" : false
+				},
+				{
+					"name" : "q_a[1]",
+					"strict" : false
+				},
+				{
+					"name" : "q_a[2]",
+					"strict" : false
+				},
+				{
+					"name" : "q_a[3]",
+					"strict" : false
+				},
+				{
+					"name" : "q_a[4]",
+					"strict" : false
+				},
+				{
+					"name" : "q_a[5]",
+					"strict" : false
+				},
+				{
+					"name" : "q_a[6]",
+					"strict" : false
+				},
+				{
+					"name" : "q_a[7]",
+					"strict" : false
+				},
+				{
+					"name" : "q_b[0]",
+					"strict" : false
+				},
+				{
+					"name" : "q_b[1]",
+					"strict" : false
+				},
+				{
+					"name" : "q_b[2]",
+					"strict" : false
+				},
+				{
+					"name" : "q_b[3]",
+					"strict" : false
+				},
+				{
+					"name" : "q_b[4]",
+					"strict" : false
+				},
+				{
+					"name" : "q_b[5]",
+					"strict" : false
+				},
+				{
+					"name" : "q_b[6]",
+					"strict" : false
+				},
+				{
+					"name" : "q_b[7]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "set",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tms",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tck",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tdi",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tdo",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
